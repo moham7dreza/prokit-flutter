@@ -1,7 +1,6 @@
 # prokit_flutter
 
 # List of Video Tutorials
-- Mohammad Hosseini (Toplearn.com)
 - Download and configuring Flutter and building the ProKit Flutter - https://youtu.be/QNlfN32G5As
 - How to build ProKit Flutter in Android - https://youtu.be/QKMfASEX9As
 - How to build ProKit Flutter in iOS - https://youtu.be/Hg9S6AKzWxE
